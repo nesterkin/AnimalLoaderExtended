@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnimalLoaderExtended</string>
+    <string name="add_animal_button">Добавить</string>
+    <string name="add_species">Вид</string>
+    <string name="add_name">Имя</string>
+    <string name="add_age">Возраст</string>
+    <string name="add_animal_menu_item">Добавить животное</string>
+</resources>
